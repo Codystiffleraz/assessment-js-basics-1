@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = "Free and open source software for distribution version control."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = "A distributed version-control platform where users can collaborate on or adopt open source code projects"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -25,7 +25,7 @@
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = "is a command in git used to create a new git repository"
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = "a command in git that creates a copy or clone of a repository"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = "a git command that displays the state of the working directory and the stage area"
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -52,7 +52,8 @@
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition ="a git command that should be the first command used in the chain of saving or snapshotting the current stage of a project"
+let gitAddCode = "git add ."
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -63,7 +64,8 @@
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = "a command used that takes a snapshot of your repo at the a specific time in a project"
+let gitCommitCode = "git commit -m 'Initial Commit'"
 
 
 //////////////////PROBLEM 8////////////////////
@@ -72,4 +74,4 @@
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = "uploads content from a local repository to a remote one"
